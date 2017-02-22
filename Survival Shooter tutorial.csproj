@@ -87,6 +87,7 @@
     <Compile Include="Assets\Scripts\Enemy\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\Managers\EnemyManager.cs" />
     <Compile Include="Assets\Scripts\Managers\GameOverManager.cs" />
+    <Compile Include="Assets\Scripts\Managers\PauseManager.cs" />
     <Compile Include="Assets\Scripts\Managers\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
@@ -114,7 +115,6 @@
     <Compile Include="Assets\_CompletedAssets\Scripts\Helpers\VolumeHandler.cs" />
     <Compile Include="Assets\_CompletedAssets\Scripts\Managers\EnemyManager.cs" />
     <Compile Include="Assets\_CompletedAssets\Scripts\Managers\GameOverManager.cs" />
-    <Compile Include="Assets\_CompletedAssets\Scripts\Managers\PauseManager.cs" />
     <Compile Include="Assets\_CompletedAssets\Scripts\Managers\ScoreManager.cs" />
     <Compile Include="Assets\_CompletedAssets\Scripts\Player\PlayerHealth.cs" />
     <Compile Include="Assets\_CompletedAssets\Scripts\Player\PlayerMovement.cs" />
